@@ -1,0 +1,36 @@
+<doc type html>
+<html>
+<head>
+<div style="background-image:url('grooth.jpg');">
+<title> Basic Login Page </title>
+</head>
+<body background="D:\ImagesB\grooth.jpg">
+<h1 style="color:yellow;"> Web Development smart Login Page</h1> 
+<form>
+ <h2 style="color:white;">First Name </h2>:<br>
+<input type="text" Name="FirstName">
+<br>
+
+<h2 style="color:Red;">Last Name</h2>:<br>
+<input type="text" Name="LastName">
+<br>
+<h2 style="color:Blue;">Email Address</h2>:<br>
+<input type="email"Email="Enter the Valid Email-Id"
+<br>
+<h2 style="color:Green;">Password</h2>:<br>
+
+<input type="Password" Password="******">
+<br>
+<h2 style="color:Orange;">Gender</h2>:<br>
+<input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Other
+<P> <h2 style="color:grey;">Submit</h2> </p>
+<a href="https://github.com/join?source=header-home"> For any questions Ask Here </a>
+<button style="color:gold;"> Click Here To Submit </buttom>
+</form><br>
+
+</body>
+
+</html>
+
